@@ -1,7 +1,7 @@
 name: Docker Compose Workflow
 
 on:
-  push:
+  push: 
     branches:
       - main
 
